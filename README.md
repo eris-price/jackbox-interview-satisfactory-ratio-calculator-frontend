@@ -4,7 +4,7 @@ This webapp allows you to select a craftable resource from a dropdown, input how
 and will return a list of all input resources necessary, and how many of each are required per minute. 
 
 ### Running remotely
-You can (maybe, depending on when you are reading this) access a remote instance of this app at http://ec2-54-237-125-48.compute-1.amazonaws.com/ui
+You can (maybe, depending on when you are reading this) access a remote instance of this app at http://ec2-54-237-125-48.compute-1.amazonaws.com/
 
 ### Running locally
 You can run this app locally with `yarn start` and by navigating to http://localhost:3000 .
