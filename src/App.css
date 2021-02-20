@@ -1,0 +1,49 @@
+.ratio-calculator-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-left: 20rem;
+  padding-right: 20rem;
+  padding-top: 10rem;
+}
+
+.instruction-text {
+  font-size: 2rem;
+  color: #fdf6e3;
+}
+
+.inputs {
+  flex-direction: column;
+  justify-content: center;
+  font-size: 1.25rem;
+  display: flex;
+  padding-left: 30rem;
+  padding-right: 30rem;
+  padding-top: 5rem;
+}
+
+.results-container {
+  padding-top: 5rem;
+}
+
+.input-group {
+  justify-content: center;
+}
+
+.dropdown-toggle {
+  width: 100%;
+}
+
+.items-per-minute-input {
+  flex: 1;
+}
+
+.craftable-item-dropdown {
+  flex: 2;
+}
+
+.submit-button {
+  flex: 2;
+}
